@@ -2,4 +2,4 @@
 
   
 Tired of working all day? 
-Browse Movies [here](https://phoenix1192.github.io/MoviesBrowser/)
+Grab Your Popcorn and start browsing [here](https://phoenix1192.github.io/MoviesBrowser/)
